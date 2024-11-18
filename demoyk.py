@@ -61,7 +61,7 @@ while cap.isOpened():
 
         # Calculate angle
         angle = calculate_angle(shoulder, elbow, wrist)
-
+        print(angle)
         # Visualize landmarks and angle
         cv2.circle(frame, tuple(shoulder), 5, (0, 0, 255), -1)
         cv2.circle(frame, tuple(elbow), 5, (0, 255, 0), -1)
