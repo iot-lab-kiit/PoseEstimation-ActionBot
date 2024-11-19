@@ -17,7 +17,7 @@ except Exception as e:
 try:
     while True:
         # Example data to send
-        data_to_send = "Hello, COM Port!"
+        data_to_send = "155"
         
         # Encode string to bytes and send it
         ser.write(data_to_send.encode())
