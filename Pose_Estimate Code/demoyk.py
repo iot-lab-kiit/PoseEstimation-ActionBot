@@ -97,6 +97,11 @@ if SerialObj:
 cv2.destroyAllWindows()
 
 
+
+#following is the code that implements angle smoothing to reduce jitters in movement, but may result in slower response. parameters might need refining before deployment.
+
+#NOTE: does it need a low pass or a high pass filter? i think it may need a high pass considering the use case
+
 '''
 import cv2
 import mediapipe as mp
