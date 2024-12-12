@@ -1,0 +1,16 @@
+srv995_alto_caja = 31;
+srv995_alto_base_ini_ala = 27;
+srv995_alto_base_fin_ala = 29.8;
+srv995_alto_total_eje_circular = 46.2;
+srv995_dist_tornillos_largo = 37;
+srv995_dist_tornillos_ancho = 16.1;
+srv995_dist_tornillo_ala = 9;
+srv995_largo_base = 41.1;
+srv995_largo_con_alas = 55;
+srv995_largo_con_una_ala = 48.2;
+srv995_ancho_base = 20.5;
+srv995_ancho_alas = 7.15; 
+srv995_largo_alas = 20.5; 
+srv995_profundo_muesca_ala = 1.5;
+srv995_ancho_muesca_ala = 1.8;
+srv995_ancho_saliente_cilindro_eje = 7;

@@ -7,7 +7,7 @@ import platform
 
 # Determine serial port dynamically
 if platform.system() == "Windows":
-    port = "COM3"  # Adjust as necessary
+    port = "COM5"  # Adjust as necessary
 else:
     port = "/dev/ttyACM0"
 
